@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center"><b>Thomas Seigneuret (zblurx) </b></h1>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zblurx&show_icons=true&include_all_commits=true">
+<br>
+<br>
+<a href="https://twitter.com/intent/follow?screen_name=_zblurx" title="Follow"><img src="https://img.shields.io/twitter/follow/_zblurx?label=_zblurx&style=social"></a>
+</p>
+
 
 <!--
 **zblurx/zblurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
